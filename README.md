@@ -30,9 +30,9 @@ jupyter notebook
 
 ## Data Sources
 
-* [CDC Fetal Death Data, 2014-2017] (https://wonder.cdc.gov/fetal-deaths-expanded-current.html)
+* [CDC Fetal Death Data, 2014-2017](https://wonder.cdc.gov/fetal-deaths-expanded-current.html)
 
-* [Dataset Documentation] (https://wonder.cdc.gov/wonder/help/fetal-deaths-expanded.html#)
+* [Dataset Documentation](https://wonder.cdc.gov/wonder/help/fetal-deaths-expanded.html#)
 
 ## Authors
 
