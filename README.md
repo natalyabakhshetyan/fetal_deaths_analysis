@@ -34,6 +34,10 @@ jupyter notebook
 
 * [Dataset Documentation](https://wonder.cdc.gov/wonder/help/fetal-deaths-expanded.html#)
 
+## Resources
+
+* https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death
+
 ## Authors
 
 * **Natalya Bakhshetyan** - [Github profile](https://github.com/natalyabakhshetyan)
